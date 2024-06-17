@@ -85,7 +85,7 @@
 
 ## 내아파트 분석 화면
 <p align="center">
-  <video src="https://github.com/asder0705/2024_Team_Project/assets/150253403/3d27815e-a2e5-4a5d-ae64-3692ddc02540" alt="myapt">
+  <video src="https://github.com/asder0705/2024_Team_Project/assets/150253403/7caeec40-9228-43a7-a895-dbd100b32880" alt="myapt">
 </p>
 <br>
 
