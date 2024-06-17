@@ -11,6 +11,13 @@
 <br>
 
 ## 구현 기능
+**데이터 수집, 전처리 및 EDA**
+**Kakao Map API 이벤트 처리**
+**ApexCharts.js 시각화 처리**
+**EasyOCR 활용 고지서 처리**
+**SARIMAX 활용 전력량 예측**
+**DB 구축 및 연동**
+
 ### 아파트 관리 시스템:
  - **공공데이터를 활용하여 대전의 아파트 전력량의 평균 시각화**
  
@@ -20,6 +27,7 @@
 
 ### 목표 설정 기능:
  - **개별 사용자와 전체 통계를 차트 제공으로 성과 분석 가능**
+
 
 ### 익명 아파트 게시판:
  - **익명성을 더하여 고객들 간의 자유로운 의사소통 기능**
@@ -42,8 +50,12 @@
 
  
 
+<br> 
+
+## 수상 
 <br>
 
+ - **미래융합 교육원 팀프로잭트 우수상 수상**
 
     
 
@@ -53,7 +65,7 @@
 
 ## 메인화면
 <p align="center">
-  <img src="https://github.com/asder0705/SpringCloset/assets/150253403/3c6a4d56-5e12-4bd7-a7fa-706f529edc17" alt="main">
+  <video src="https://github.com/asder0705/2024_Team_Project/assets/150253403/da14014e-a184-49fd-870a-82471dc714fb" alt="main">
 </p>
 <br>
 <hr>
