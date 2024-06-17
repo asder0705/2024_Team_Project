@@ -11,12 +11,12 @@
 <br>
 
 ## 구현 기능
-**데이터 수집, 전처리 및 EDA**<br>
-**Kakao Map API 이벤트 처리**<br>
-**ApexCharts.js 시각화 처리**<br>
-**EasyOCR 활용 고지서 처리**<br>
-**SARIMAX 활용 전력량 예측**<br>
-**DB 구축 및 연동**
+- **데이터 수집, 전처리 및 EDA**<br>
+- **Kakao Map API 이벤트 처리**<br>
+- **ApexCharts.js 시각화 처리**<br>
+- **EasyOCR 활용 고지서 처리**<br>
+- **SARIMAX 활용 전력량 예측**<br>
+- **DB 구축 및 연동**
 
 ### 아파트 관리 시스템:
  - **공공데이터를 활용하여 대전의 아파트 전력량의 평균 시각화**
