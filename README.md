@@ -65,57 +65,116 @@
 
 ## 메인화면
 <p align="center">
-  <video src="https://github.com/asder0705/2024_Team_Project/assets/150253403/da14014e-a184-49fd-870a-82471dc714fb" alt="main">
+<video src="https://github.com/asder0705/2024_Team_Project/assets/150253403/da14014e-a184-49fd-870a-82471dc714fb" alt="main">
 </p>
 <br>
+
+- **카카오 맵API를 사용하여 대전의 구를 나누어 시각화하고 각 구의 전력 예측량 모델과 대전광역시 전력량을 시각화하였다.**
 <hr>
 <br>
 
-## 옷 등록 화면
+## 회원가입 
 <p align="center">
-  <img src="https://github.com/asder0705/SpringCloset/assets/150253403/5544b476-322f-4bec-b748-dfc4564c96e2" alt="closetupView">
+<video src="https://github.com/asder0705/2024_Team_Project/assets/150253403/30187f58-196d-4934-8095-45a38074e714" alt="regist">
 </p>
 <br>
-- 대분류 중분류를 통하여 옷을 검색 할 수 있고 옷 등록 버튼을 통해 데이터베이스에 추가하 수 있고 아코디언 버튼을 클릭하여 상세정보 설명을 볼 수 있다.
+
+- **아이디 중복체크가 가능하고 아파트명을 검색하면 단지코드가 자동으로 입력됩니다.**
 <hr>
 <br>
 
-### 나의 옷장 화면
+## 내아파트 분석 화면
 <p align="center">
-  <img src="https://github.com/asder0705/SpringCloset/assets/150253403/d808ebdd-0c7e-4491-8030-9b59cd89e642" alt="create_plan1">
+  <video src="https://github.com/asder0705/2024_Team_Project/assets/150253403/3d27815e-a2e5-4a5d-ae64-3692ddc02540" alt="myapt">
 </p>
 <br>
-- 등록된 옷들을 볼 수 있고 삭제가 가능하다.
+
+- **자신의 아파트의 전력량을 1년 단위로 볼 수 있고 아파트의 다음달 전력량을 예측할 수 있습니다. 고지서입력 버튼을 누르면 EasyOCR을 통하여 고지서의 전력량을 읽어 데이터 베이스로 저장됩니다.**
 <hr>
 <br>
 
-### 옷장 코디 화면
+## 아파트 고지서 분석화면
 <p align="center">
-  <img src="https://github.com/asder0705/SpringCloset/assets/150253403/d95c6709-fd00-4acd-902c-d12baa70b0b5" alt="edit_plan1">
+  <img src=" " alt="go">
 </p>
 <br>
--- 선택된 옷들의 이미지를 slide로 한번에 볼 수 있고 drag and drop 을 통하여 옷을 선택하여 매치 한 후 파일 형태로 저장 할 수 있다.
+
+- **자신의 아파트의 평균 전력량과 자신의 전력량과 비교하여 얼마나 차이나는지 알려주고 자신의 전력량을 분석합니다.**
 <hr>
 <br>
 
-- **옷 텍 정보 easyOCR로 찾아오기** 
+
+### 아파트 비교화면
 <p align="center">
-  <img src=https://github.com/asder0705/SpringCloset/assets/150253403/89bf39b1-7ae9-4994-ac40-2d1468bf8121"" alt="edit_plan2">
-</p>
-<p align="center">
-  <img src="https://github.com/asder0705/SpringCloset/assets/150253403/1d4e3126-c8fe-4f5e-81ee-7341a33f5af5" alt="edit_plan2">
+  <video src="https://github.com/asder0705/2024_Team_Project/assets/150253403/3d27815e-a2e5-4a5d-ae64-3692ddc02540" alt="apt_compare">
 </p>
 <br>
--- fileupload를 한 뒤 flack를 통하여 이미지 분류 후 네이버API키를 활용해 상품들을 나열한다.
-<hr>
 
+- **자신의 아파트와 다른아파트를 선택하여 전력량 비교가능**
+
+<hr>
+<br>
+
+### 목표치 계산기
+<p align="center">
+  <img src="https://github.com/asder0705/2024_Team_Project/assets/150253403/7c36909d-5992-40e8-a7e0-8d06363a0037" alt="plan">
+</p>
+<br>
+
+- **고지서로 입력한 자신의 현재 전력량과 목표치를 설정하여 얼마나 절약하였는지 시각화하여 보여줍니다.**
+<hr>
+<br>
+
+### 게시판
+<p align="center">
+  <video src="https://github.com/asder0705/2024_Team_Project/assets/150253403/c6dc7b84-9a7f-4f5a-b554-ffb2e695d605" alt="plan">
+</p>
+<br>
+
+- **단지코드로 아파트별 회원의 커뮤니케이션방을 만들고 다양한 카테고리 안에서 원활한 소통이 가능하고 추천과 댓글기능이 있습니다.**
+<hr>
+<br>
+
+### 탄소포인트
+<p align="center">
+  <video src="https://github.com/asder0705/2024_Team_Project/assets/150253403/5c4203fb-58a0-4f79-a98d-b6e549b51779" alt="plan">
+</p>
+<br>
+
+- **자신의 전력량에서 몇퍼센트 절약하였을때 탄소포인트가 늘어나는지 시각화하여 기능 설명**
+<hr>
+<br>
+
+### 에너지 뉴스
+<p align="center">
+  <img src="https://github.com/asder0705/2024_Team_Project/assets/150253403/27763e48-605e-420f-94e1-b5b8af2a8ad7" alt="plan">
+</p>
+<br>
+
+- **아파트 에너지 관련 뉴스를 볼 수 있고 페이지네이션 기능을 구현하고 스크랩기능과 검색기능이 있습니다.**
+<hr>
+<br>
+
+### 아이디 & 비밀번호 찾기
+<p align="center">
+  <video src="https://github.com/asder0705/2024_Team_Project/assets/150253403/ea7ca59f-935f-4838-9935-9d0728c0b368" alt="plan">
+</p>
+<br>
+
+- **아이디는 coolSMS를 사용하였고, 이메일인증은 google API를 활용하여 구현**
+<hr>
+<br>
 
 ## 느낀점 및 보완사항
-### css
-- **기능에 신경 쓰다 보니 화면이 매끄럽지 못했고 화면 간격이나 margin에 대한 이해가 부족하여 비율이 잘 맞지 못했다. 이런 부분에 있어서 고객이 원하는 바가 있을 수 있으므로 더 공부해야겠다.**
+### 데이터 분야
+- **데이터의 한계로 할 수 없었지만 데이터 범위가 넓어진다면 추후 발전가능성으로 난방, 가스 등의 데이터 까지 포함 시켜 아파트 전체 에너지에 대해 일괄적으로 비교분석이 가능하게 발전**
 
-### 디버깅
-- **오류를 해결하는 과정에서 디버깅을 통해 코드를 다시 짜보고 실행해보는 과정에서 성장을 많이 한 것 같다.반복해서 같은 부분이라도 뭐가 들어왔는지 보고 오류를 찾아내서 해결하는 부분에서 문제 해결 능력이 상승하는 것을 느낄 수 있었다.**
+### 모바일
+- **아파트 에너지 관련하여 React-Native를 활용해서 모바일 앱으로도 서비스 제공**
+
+### 탄소 포인트
+- **포인트만 시뮬레이션 하는 방법이 아니라 직접 신청도 가능 할 수 있도록 발전**
+
 
 
 
