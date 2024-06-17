@@ -11,11 +11,11 @@
 <br>
 
 ## 구현 기능
-**데이터 수집, 전처리 및 EDA**
-**Kakao Map API 이벤트 처리**
-**ApexCharts.js 시각화 처리**
-**EasyOCR 활용 고지서 처리**
-**SARIMAX 활용 전력량 예측**
+**데이터 수집, 전처리 및 EDA**<br>
+**Kakao Map API 이벤트 처리**<br>
+**ApexCharts.js 시각화 처리**<br>
+**EasyOCR 활용 고지서 처리**<br>
+**SARIMAX 활용 전력량 예측**<br>
 **DB 구축 및 연동**
 
 ### 아파트 관리 시스템:
