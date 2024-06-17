@@ -95,7 +95,7 @@
 
 ## 아파트 고지서 분석화면
 <p align="center">
-  <img src=" " alt="go">
+  <img src="https://github.com/asder0705/2024_Team_Project/assets/150253403/d508d7f5-0537-4b14-80c2-38c7a2597c86" alt="go">
 </p>
 <br>
 
@@ -117,7 +117,7 @@
 
 ### 목표치 계산기
 <p align="center">
-  <img src="https://github.com/asder0705/2024_Team_Project/assets/150253403/7c36909d-5992-40e8-a7e0-8d06363a0037" alt="plan">
+  <video src="https://github.com/asder0705/2024_Team_Project/assets/150253403/7c36909d-5992-40e8-a7e0-8d06363a0037" alt="plan">
 </p>
 <br>
 
